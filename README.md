@@ -26,5 +26,5 @@ Using **SQL** for data preparation and **Tableau** for visualization, the dashbo
 - Certificate issuance peaks in August, indicating seasonal learning trends.
 - Ratings are consistently high (average 4.79), with strong positive feedback.
 
-## 🌐 Tableau Public Link
-👉 [View the interactive dashboards here]((https://public.tableau.com/views/Customerengagementanalysis/Overview?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+## 🌐 Tableau Public Link  
+👉 [View the interactive dashboards here](https://public.tableau.com/views/Customerengagementanalysis/Overview?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
