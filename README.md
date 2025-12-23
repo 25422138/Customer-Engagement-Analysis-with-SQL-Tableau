@@ -27,4 +27,4 @@ Using **SQL** for data preparation and **Tableau** for visualization, the dashbo
 - Ratings are consistently high (average 4.79), with strong positive feedback.
 
 ## 🌐 Tableau Public Link
-👉 [View the interactive dashboards here]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/views/Customerengagementanalysis/Overview?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View the interactive dashboards here]((https://public.tableau.com/views/Customerengagementanalysis/Overview?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
